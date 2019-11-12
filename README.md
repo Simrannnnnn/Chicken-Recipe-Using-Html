@@ -7,6 +7,7 @@
   <title>Chicken Recipe</title>
   </head><em><strong>Ingredients Used In Recipe</strong></em>
 <body>
+  <!-- Unordered list -->
   <ul>
     <li>Oil  - 200gm</li>
     <li>Garlic - 100gm</li>
@@ -20,6 +21,7 @@
     <li>Chicken Masala - 150gm</li>
   </ul>
   <head><strong>Steps In Recipe</strong></head>
+  <!-- ordered list -->
   <ol>
     <li>Heat the oil into a pan.</li>
     <li>Put the onion in the pan and wait for some minutes till onion does not get brown.</li>
